@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav
+{
+    margin: 2%;
+}
+
+header
+{
+    margin: 2%;
+}
+main
+{
+    justify-content: space-around;
+    margin: 2%;
+}
+
+h1
+{
+    font-size: 60px;
+    background: -webkit-linear-gradient(pink, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn
+{
+    background-color: pink;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: black;
+    color: black;
+}
+
+aside
+{
+    margin: 2%;
+
+}
+
+section
+{
+    margin: 2%;
+}
+
+footer
+{
+    margin: 2%;
+}
