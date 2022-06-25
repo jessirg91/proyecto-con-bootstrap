@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.footer
+{
+    background-color: pink;
+}
 
 h1
 {
@@ -18,7 +22,13 @@ h1
 {
     background-color: pink;
     border-radius: 10%;
-    border-style: solid;
+    border-style: none;
     border-color: black;
     color: black;
+}
+
+.btn:hover
+{
+     background-color: palevioletred;
+     border-color: black;
 }
