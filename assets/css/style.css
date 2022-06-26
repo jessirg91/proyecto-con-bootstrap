@@ -32,3 +32,14 @@ h1
      background-color: palevioletred;
      border-color: black;
 }
+
+.profes
+{
+    border-radius: 2%;
+    border-color: pink;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
